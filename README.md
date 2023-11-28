@@ -3,9 +3,12 @@ Hi 👋 My name is Mary Richelle
 
 Web Developer and Designer 👩‍💻
   --------------------------
+A Life Time Student
+A Book Lover 
+A NailArt Designer 
 
  ### *Do What You Love and Love what you do* 
-** 💖 I Love to CODE  💖**
+💖 **I Love to CODE**  💖
  
 
 
