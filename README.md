@@ -1,10 +1,11 @@
 Hi 👋 My name is Mary Richelle
   ==============================
 
-Web Developer and Designer
+Web Developer and Designer 👩‍💻
   --------------------------
 
- ### *Do What Love and Love what you do* **I choose to code**
+ ### *Do What You Love and Love what you do* 
+** 💖 I Love to CODE  💖**
  
 
 
