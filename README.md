@@ -1,10 +1,12 @@
 Hi 👋 My name is Mary Richelle
   ==============================
 
-Web Developer and designer
+Web Developer and Designer
   --------------------------
 
-  *Do What Love and Love what you do* I choose to code
+ ### *Do What Love and Love what you do* **I choose to code**
+ 
+
 
 * 🌍 I'm based in Athens Greece
 * 🖥️ See my portfolio at [My Portfolio](http://maryrich-portfolio.netlify.app/)
