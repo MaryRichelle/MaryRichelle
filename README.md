@@ -1,28 +1,253 @@
-- <h1 align="center">Hi 👋, I'm Mary Richelle</h1>
-<h3 align="center">Front-End Developer</h3>
+Hi 👋 My name is Mary Richelle
+  ==============================
 
-## Welcome To My World of JavaScript 
+Web Developer and designer
+  --------------------------
 
+  *Do What Love and Love what you do* I choose to code
 
+* 🌍 I'm based in Athens Greece
+* 🖥️ See my portfolio at [My Portfolio](http://maryrich-portfolio.netlify.app/)
+* ✉️ You can contact me at [mary.richal44@gmail.com](mailto:mary.richal44@gmail.com)
+* 🧠 I'm learning Full Stack blockchain development
+* 🤝 I'm open to collaborating on any Front End Project
+* ⚡ Send me some code to review/debug
 
-- 🔭 I’m currently working on some JavaScript Projects
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on some JS based open source project
-- 🤔 I’m looking for help with Javascript 
-- 💬 Ask me about Javascript 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: my world revolves around Javascript 😜
+## Skills
 
+### Frontend
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/maryrichelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/maryrichelle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mary-r-a600511b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mary-r-a600511b8/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/maryrichelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/maryrichelle" height="30" width="40" /></a>
-</p>
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+        width="36" height="36" alt="Git" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+        width="36" height="36" alt="JavaScript" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+        width="36" height="36" alt="TypeScript" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+        width="36" height="36" alt="HTML5" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+        width="36" height="36" alt="React" />
+    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
+        width="36" height="36" alt="JQuery" />
+    </a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+        width="36" height="36" alt="CSS3" />
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+        width="36" height="36" alt="Sass" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+        width="36" height="36" alt="TailwindCSS" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+        width="36" height="36" alt="Bootstrap" />
+    </a>'
+    <a href="https://mui.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+        width="36" height="36" alt="Material UI" />
+    </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+        width="36" height="36" alt="Redux" />
+    </a>
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
+        width="36" height="36" alt="Webpack" />
+    </a>
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg"
+        width="36" height="36" alt="Babel" />
+    </a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+        width="36" height="36" alt="Vite" />
+    </a>
+     <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg"
+        width="36" height="36" alt="Allpine" />
+        </a>
+    <a href="https://wordpress.com/?aff=27964&gclid=CjwKCAiAvJarBhA1EiwAGgZl0MUbEDXSLn45NQvrIzy2vvZEdW--fREuXp0UjNcxlLixGfD4728I6BoC-RwQAvD_BwE target="_blank" rel="noreferrer">
+      <img
+        src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg"
+        width="38" height="38" alt="Wordpress" />
+    </a>
+    <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/11ty/11ty-logo/HEAD/img/logo-400x400.png"
+        width="36" height="36" alt="11ty" />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+        width="36" height="36" alt="NodeJS" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+        width="36" height="36" alt="Firebase" />
+    </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Blockchain
 
+  <p align="left">
+   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg"
+        width="36" height="36" alt="solidity" />
+    </a>
+    <a href="https://metamask.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg"
+        width="36" height="36" alt="MetaMask" />
+    </a>
+    <a href="https://ethers.io" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg"
+        width="36" height="36" alt="Ethers" />
+    </a>
+    <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg"
+        width="36" height="36" alt="Hardhat" />
+    </a>
+    <a href="https://trufflesuite.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg"
+        width="36" height="36" alt="Truffle" />
+    </a>
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
+        width="36" height="36" alt="Ethereum" />
+    </a>
+    <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg"
+        width="36" height="36" alt="Web3Js" />
+    </a>
+    <a href="https://chain.link/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg"
+        width="36" height="36" alt="Chainlink" />
+    </a>
 
+  </p>
+
+### Design
+
+  <p align="left">
+    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.svgrepo.com/show/303188/indesign-cc-logo.svg"
+        width="36" height="36" alt="Indesign" />
+    </a>
+    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png"
+        width="36" height="36" alt="Photoshop" />
+    </a>
+    <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png"
+        width="36" height="36" alt="Illustrator" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+        width="36" height="36" alt="Figma" />
+    </a>
+  </p>
+
+### Socials
+
+  <p align="left">
+    <a href="https://www.codepen.io/maryRichelle" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
+        <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
+        <img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg"
+          width="32" height="32" />
+      </picture>
+    </a> <a href="https://www.github.com/MaryRichelle" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+        <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+          width="32" height="32" />
+      </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/mary-richelle-mr-dev/" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+        <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+        <img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+          width="32" height="32" />
+      </picture>
+    </a>
+  </p>
+
+### Badges
+
+  <b>My GitHub Stats</b>
+
+  <a href="http://www.github.com/MaryRichelle">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=MaryRichelle&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true"
+      alt="MaryRichelle's GitHub stats" />
+    </a>
+  ![](https://github-contributor-stats.vercel.app/api?username=maryRichelle&limit=5&theme=light&combine_all_yearly_contributions=true)
+
+  <a href="http://www.github.com/MaryRichelle">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=MaryRichelle&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    </a>
+
+  [![Mary's github activity
+  graph](https://github-readme-activity-graph.vercel.app/graph?username=maryRichelle&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <a href="https://github.com/MaryRichelle" align="left">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryRichelle&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"
+      alt="Top Languages" />
+    </a>
