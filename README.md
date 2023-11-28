@@ -236,6 +236,7 @@ Web Developer and designer
       src="https://github-readme-stats.vercel.app/api?username=MaryRichelle&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true"
       alt="MaryRichelle's GitHub stats" />
     </a>
+    
   ![](https://github-contributor-stats.vercel.app/api?username=maryRichelle&limit=5&theme=light&combine_all_yearly_contributions=true)
 
   <a href="http://www.github.com/MaryRichelle">
