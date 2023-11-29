@@ -3,9 +3,9 @@ Hi 👋 My name is Mary Richelle
 
 Web Developer and Designer 👩‍💻
   --------------------------
-A Life Time Student  
-A Book Worm 
-A NailArt Designer  
+A Life Time Student    
+A Book Worm   
+A NailArt Designer    
 
  ### *Do What You Love and Love what you do* 
 💖 **I Love to CODE**  💖
