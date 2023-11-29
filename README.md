@@ -3,9 +3,9 @@ Hi 👋 My name is Mary Richelle
 
 Web Developer and Designer 👩‍💻
   --------------------------
-A Life Time Student
-A Book Lover 
-A NailArt Designer 
+A Life Time Student  
+A Book Worm 
+A NailArt Designer  
 
  ### *Do What You Love and Love what you do* 
 💖 **I Love to CODE**  💖
@@ -253,8 +253,4 @@ A NailArt Designer
   [![Mary's github activity
   graph](https://github-readme-activity-graph.vercel.app/graph?username=maryRichelle&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://github.com/MaryRichelle" align="left">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryRichelle&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"
-      alt="Top Languages" />
-    </a>
+  
