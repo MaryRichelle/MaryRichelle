@@ -3,25 +3,24 @@ Hi 👋 My name is Mary Richelle
 
 Web Developer and Designer 👩‍💻
   --------------------------
-A Life Time Student    
-A Book Worm   
-A NailArt Designer    
 
- ### *Do What You Love and Love what you do* 
+A Life Time Student
+A Book Worm
+A NailArt Designer
+
+### *Do What You Love and Love what you do*
+
 💖 **I Love to CODE**  💖
- 
-
 
 * 🌍 I'm based in Athens Greece
-* 🖥️ See my portfolio at [My Portfolio](https://www.linkedin.com/in/mary-richelle-mr-dev/)
-* ✉️ You can contact me at [here]()
-* 🧠 I'm learning Full Stack blockchain development
+* 🖥️ See my portfolio at [My Portfolio](https://maryrich-portfolio.netlify.app/)
+* ✉️ You can contact me [here](https://www.linkedin.com/in/mary-richelle-mr-dev/)
+* 🧠 I'm learning *Full Stack Blockchain Development*
 * 🤝 I'm open to collaborating on any Front End Project
-* ⚡ Send me some code to review/debug
 
 ## Skills
 
-### Frontend
+### Web 2.0
 
   <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -126,7 +125,7 @@ A NailArt Designer
     </a>
   </p>
 
-### Blockchain
+### Web 3.0
 
   <p align="left">
    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
@@ -246,10 +245,6 @@ A NailArt Designer
       src="https://github-readme-streak-stats.herokuapp.com/?user=MaryRichelle&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
 
- 
    <a href="http://www.github.com/MaryRichelle">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryRichelle&bg_color=000000&color=1cadfb&line=0e589a&point=38761d&area=true&hide_border=true"/>
     </a>
-
-
-  
