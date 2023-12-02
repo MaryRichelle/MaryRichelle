@@ -1,10 +1,16 @@
 Hi 👋 My name is Mary Richelle
   ==============================
 
-Web Developer and designer
+Web Developer and Designer 👩‍💻
   --------------------------
+A Life Time Student    
+A Book Worm   
+A NailArt Designer    
 
-  *Do What Love and Love what you do* I choose to code
+ ### *Do What You Love and Love what you do* 
+💖 **I Love to CODE**  💖
+ 
+
 
 * 🌍 I'm based in Athens Greece
 * 🖥️ See my portfolio at [My Portfolio](https://www.linkedin.com/in/mary-richelle-mr-dev/)
@@ -246,8 +252,4 @@ Web Developer and designer
     </a>
 
 
-  <a href="https://github.com/MaryRichelle" align="left">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryRichelle&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"
-      alt="Top Languages" />
-    </a>
+  
