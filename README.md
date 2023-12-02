@@ -7,8 +7,8 @@ Web Developer and designer
   *Do What Love and Love what you do* I choose to code
 
 * 🌍 I'm based in Athens Greece
-* 🖥️ See my portfolio at [My Portfolio](http://maryrich-portfolio.netlify.app/)
-* ✉️ You can contact me at [mary.richal44@gmail.com](mailto:mary.richal44@gmail.com)
+* 🖥️ See my portfolio at [My Portfolio](https://www.linkedin.com/in/mary-richelle-mr-dev/)
+* ✉️ You can contact me at [here]()
 * 🧠 I'm learning Full Stack blockchain development
 * 🤝 I'm open to collaborating on any Front End Project
 * ⚡ Send me some code to review/debug
@@ -143,11 +143,6 @@ Web Developer and designer
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg"
         width="36" height="36" alt="Hardhat" />
     </a>
-    <a href="https://trufflesuite.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg"
-        width="36" height="36" alt="Truffle" />
-    </a>
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
@@ -236,16 +231,20 @@ Web Developer and designer
       src="https://github-readme-stats.vercel.app/api?username=MaryRichelle&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true"
       alt="MaryRichelle's GitHub stats" />
     </a>
-    
-  ![](https://github-contributor-stats.vercel.app/api?username=maryRichelle&limit=5&theme=light&combine_all_yearly_contributions=true)
+ <a href="http://www.github.com/MaryRichelle">
+    <img src="https://github-contributor-stats.vercel.app/api?username=maryRichelle&limit=5&theme=dark&combine_all_yearly_contributions=true">
+    </a>
 
   <a href="http://www.github.com/MaryRichelle">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=MaryRichelle&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
     </a>
 
-  [![Mary's github activity
-  graph](https://github-readme-activity-graph.vercel.app/graph?username=maryRichelle&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+   <a href="http://www.github.com/MaryRichelle">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryRichelle&bg_color=000000&color=1cadfb&line=0e589a&point=38761d&area=true&hide_border=true"/>
+    </a>
+
 
   <a href="https://github.com/MaryRichelle" align="left">
     <img
