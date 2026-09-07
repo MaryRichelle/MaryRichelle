@@ -1,108 +1,152 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mary Richelle
+<div align="center">
 
-## Full Stack Developer
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="wave" />
 
-### Skills
+# Hi, I'm Mary Richelle
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-      width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
-      width="36" height="36" alt="Vue" /></a>
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" />
-  </a>
-</p>
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/maryrichelle" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/mary-richelle-mr-dev" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
-
-### Contact
-
-You can reach me at [Gmail](mailto:mary.richal44@gmail.com) or through my [LinkedIn](https://www.linkedin.com/in/mary-richelle-mr-dev).
-
-### My GitHub Stats
-
-<a href="http://www.github.com/maryrichelle">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryrichelle&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="maryrichelle's GitHub stats" />
+<a href="https://github.com/MaryRichelle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=580&lines=Frontend+Developer+%E2%80%A2+Athens%2C+Greece;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;23+merged+PRs+into+open+source;Do+What+You+Love+and+Love+What+You+Do" alt="Frontend Developer based in Athens, Greece" />
 </a>
 
-<a href="http://www.github.com/maryrichelle">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryrichelle&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<br />
 
-<a href="http://www.github.com/MaryRichelle">
-  <img src="https://github-contributor-stats.vercel.app/api?username=maryRichelle&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryrichelle/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mary.richal44@gmail.com)
+[![Followers](https://img.shields.io/github/followers/MaryRichelle?style=for-the-badge&logo=github&logoColor=white&color=0891B2&labelColor=1c1917)](https://github.com/MaryRichelle?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=MaryRichelle&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)](https://github.com/MaryRichelle)
+
+</div>
+
+---
+
+## 💼 Open to Work
+
+> **Available now** — open to **full-time Frontend roles**, **freelance & contract** work, and **open source collaboration**.
+
+<div align="center">
+
+[![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-Available_now-22c55e?style=for-the-badge&labelColor=1c1917)](mailto:mary.richal44@gmail.com)
+[![Full time](https://img.shields.io/badge/Full--time-Frontend_Engineer-0891B2?style=for-the-badge&labelColor=1c1917)](mailto:mary.richal44@gmail.com)
+[![Freelance](https://img.shields.io/badge/Freelance-Contract_work-0891B2?style=for-the-badge&labelColor=1c1917)](mailto:mary.richal44@gmail.com)
+[![Remote](https://img.shields.io/badge/Remote_only-Not_relocating-84cc16?style=for-the-badge&labelColor=1c1917)](mailto:mary.richal44@gmail.com)
+
+</div>
+
+|  |  |
+|---|---|
+| **Looking for** | Frontend Engineer — React, TypeScript, Next.js |
+| **Also open to** | Freelance, contract & open source collaboration |
+| **Based in** | Athens, Greece 🇬🇷 |
+| **Work style** | **Remote** — not relocating |
+| **Reach me** | [mary.richal44@gmail.com](mailto:mary.richal44@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maryrichelle/) |
+
+---
+
+## 👩‍💻 About me
+
+I'm a Frontend Developer based in Athens, Greece, specialising in **React, TypeScript and Next.js**. I build scalable, high-performance web applications with a strong focus on clean code, component architecture and great user experiences.
+
+- 💼 Currently at **Orca Maritime Tools** — production features with React, TypeScript, Redux & React Query
+- 🧑‍🏫 Mentoring at **HackYourFuture** — reviewing PRs, guiding best practices and performance
+- 🌱 Going deep on **Next.js App Router** and web performance
+- 🤝 **23 pull requests merged** into open source projects, including **MDN Web Docs**
+- ❤️ I love to code, debug, and build things that actually work well for users
+
+### *Do What You Love and Love What You Do*
+
+---
+
+## 🛠️ Tech Stack
+
+**Core**
+
+[![Core stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind&theme=dark)](https://skillicons.dev)
+
+**Also work with**
+
+[![Other stack](https://skillicons.dev/icons?i=vue,nuxtjs,html,css,sass,bootstrap,nodejs,firebase,supabase&theme=dark)](https://skillicons.dev)
+
+**Tooling**
+
+[![Tooling](https://skillicons.dev/icons?i=git,github,vite,webpack,figma,vscode,wordpress&theme=dark)](https://skillicons.dev)
+
+<details>
+<summary><b>State, data &amp; design tools I reach for</b></summary>
+
+<br />
+
+| Area | Tools |
+|---|---|
+| **State** | Redux Toolkit, React Context |
+| **Server state** | React Query (TanStack Query) |
+| **Styling** | Tailwind CSS, Sass, CSS Modules, Material UI |
+| **Build** | Vite, Webpack, Babel, Next.js |
+| **Backend-ish** | Node.js, Firebase, Supabase |
+| **Design** | Figma, Photoshop, Illustrator |
+
+</details>
+
+---
+
+## 🌍 Open Source Contributions
+
+**23 pull requests merged** into repositories I don't own — documentation accuracy, features, accessibility and tooling.
+
+<div align="center">
+
+[![Merged PRs](https://img.shields.io/badge/Merged_PRs-23-8957e5?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917)](https://github.com/search?q=type%3Apr+author%3AMaryRichelle+is%3Amerged+-user%3AMaryRichelle&type=pullrequests)
+[![Projects](https://img.shields.io/badge/Projects_contributed_to-9-0891B2?style=for-the-badge&labelColor=1c1917)](https://github.com/search?q=type%3Apr+author%3AMaryRichelle+is%3Amerged+-user%3AMaryRichelle&type=pullrequests)
+[![MDN](https://img.shields.io/badge/MDN_Web_Docs-3_merged-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white&labelColor=1c1917)](https://github.com/mdn/content/pulls?q=is%3Apr+author%3AMaryRichelle+is%3Amerged)
+
+<br />
+
+**[→ Every merged pull request](https://github.com/search?q=type%3Apr+author%3AMaryRichelle+is%3Amerged+-user%3AMaryRichelle&type=pullrequests)** · **[→ All my PRs](https://github.com/search?q=type%3Apr+author%3AMaryRichelle&type=pullrequests)** · **[→ Issues I've opened](https://github.com/search?q=type%3Aissue+author%3AMaryRichelle&type=issues)** · **[→ My repositories](https://github.com/MaryRichelle?tab=repositories)**
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaryRichelle&theme=dark&hide_border=true&background=1c1917&stroke=ffffff&ring=0891b2&fire=84cc16&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=8b8b8b)](https://github.com/MaryRichelle)
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaryRichelle/MaryRichelle/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaryRichelle/MaryRichelle/output/snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/MaryRichelle/MaryRichelle/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔗 My GitHub Accounts
+
+<div align="center">
+
+|  | Account | Follow |
+|---|---|---|
+| 🧑‍💻 | **[@MaryRichelle](https://github.com/MaryRichelle)** — main account | [![Follow MaryRichelle](https://img.shields.io/github/followers/MaryRichelle?style=flat-square&logo=github&label=Follow&color=0891B2&labelColor=1c1917)](https://github.com/MaryRichelle) |
+| 🔭 | **[@MaryRich-elle](https://github.com/MaryRich-elle)** — also here | [![Follow MaryRich-elle](https://img.shields.io/github/followers/MaryRich-elle?style=flat-square&logo=github&label=Follow&color=0891B2&labelColor=1c1917)](https://github.com/MaryRich-elle) |
+
+</div>
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maryrichelle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917)](https://www.linkedin.com/in/maryrichelle/)
+[![Email](https://img.shields.io/badge/Email-mary.richal44@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917)](mailto:mary.richal44@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MaryRichelle-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917)](https://github.com/MaryRichelle)
+
+<br />
+
+**Send me some code to review or debug — I enjoy it.**
+
+</div>
